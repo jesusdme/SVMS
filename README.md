@@ -1,5 +1,5 @@
 # compumovil-taller3
-solo subimos el de mapas 
+ 
 # Grupo: Bases 3
 ## Integrantes:
 -Jesus Molina <br>
